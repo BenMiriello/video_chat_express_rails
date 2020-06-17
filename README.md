@@ -2,4 +2,4 @@
 
 This app serves access tokens to the front end, allowing it to connect to the video chat room.
 
-Uses twilio-react sdk.
+Uses twilio-ruby sdk.
